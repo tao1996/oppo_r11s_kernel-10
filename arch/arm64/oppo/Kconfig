@@ -1,0 +1,8 @@
+menu "OPPO product selection"
+
+config PRODUCT_OPPO
+	bool "OPPO devices"
+	help
+	  This enables support for oppo devices.
+
+endmenu
